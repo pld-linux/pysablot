@@ -1,0 +1,11 @@
+--- setup.py~	2000-11-14 18:14:02.000000000 +0100
++++ setup.py	2005-07-04 20:25:11.000000000 +0200
+@@ -9,6 +9,7 @@
+       py_modules=["Sablot"],
+ 	  ext_modules=[Extension("PySablot",
+ 							["src/PySablot.cpp","src/PySablot_wrap.cpp"],
+-							libraries=["sablot","xmlparse","xmltok","iconv"]
++#							libraries=["sablot","xmlparse","xmltok","iconv"]
++							libraries=["sablot"]
+ 					)]
+ 	)
