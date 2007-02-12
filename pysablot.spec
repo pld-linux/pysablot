@@ -1,5 +1,5 @@
 Summary:	pysablot - Python bindings for Sablotron
-Summary(pl):	pysablot - dowi±zania Pythona dla Sablotrona
+Summary(pl.UTF-8):   pysablot - dowiÄ…zania Pythona dla Sablotrona
 Name:		pysablot
 Version:	0.1
 Release:	0.1
@@ -21,9 +21,9 @@ Python bindings for Sablotron (a XSLT library). PySablot provides
 a simple API for in-memory XSLT transformations or file-2-file
 transformation.
 
-%description -l pl
-Dowi±zania Pythona dla Sablotrona (biblioteki XSLT). PySablot
-dostarcza proste API do przekszta³ceñ XSLT w pamiêci i przekszta³ceñ
+%description -l pl.UTF-8
+DowiÄ…zania Pythona dla Sablotrona (biblioteki XSLT). PySablot
+dostarcza proste API do przeksztaÅ‚ceÅ„ XSLT w pamiÄ™ci i przeksztaÅ‚ceÅ„
 z pliku do pliku.
 
 %prep
