@@ -1,5 +1,5 @@
 Summary:	pysablot - Python bindings for Sablotron
-Summary(pl.UTF-8):   pysablot - dowiązania Pythona dla Sablotrona
+Summary(pl.UTF-8):	pysablot - dowiązania Pythona dla Sablotrona
 Name:		pysablot
 Version:	0.1
 Release:	0.1
